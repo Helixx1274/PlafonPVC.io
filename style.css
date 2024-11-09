@@ -5,7 +5,7 @@
 }
 .jumbotron {
   padding-top: 10rem;
-  background-image: url(img/rumah.jpg);
+  background-image: url(img/rumah.png);
   background-size: cover;
   background-position: center;
 }
@@ -411,5 +411,9 @@
 
   .footer-col {
     width: 100%;
+  }
+  .Contact .formulir {
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 }

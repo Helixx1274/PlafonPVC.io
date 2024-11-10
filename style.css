@@ -28,22 +28,15 @@
 .Contact h2 {
   font-family: crimson;
 }
-
 /* end tentang kami */
 
-/* layanan kami */
-#Layanan {
-  background-color: #e2edff;
-}
-.isi-layanan {
-  padding-left: 3rem;
-}
 
 /* costumer review */
 .costumers {
   background-color: #ffffff;
 }
 .costumers h2 {
+  padding-top: 2rem;
   padding-bottom: 2rem;
 }
 .costumers h4 {
